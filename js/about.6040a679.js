@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpraktikum"]=self["webpackChunkpraktikum"]||[]).push([[443],{1490:function(t,r,n){n.r(r),n.d(r,{default:function(){return l}});var a=n(3396),u=n(7139);const e={class:"about"},i=(0,a._)("h1",null,"This is an about page",-1);function s(t,r,n,s,c,o){return(0,a.wg)(),(0,a.iD)("div",e,[i,(0,a._)("div",null,(0,u.zw)(t.$store.state.registration.rr),1),(0,a._)("div",{onClick:r[0]||(r[0]=()=>{})},"Click")])}var c={data(){return{}},methods:{}},o=n(89);const k=(0,o.Z)(c,[["render",s]]);var l=k}}]);
+//# sourceMappingURL=about.6040a679.js.map
